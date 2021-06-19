@@ -122,19 +122,13 @@
   font-weight: 400;
   font-family: Montserrat, sans-serif;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
-  margin: 368px 159px 60px 211px;
+  width: 770px;
+  margin: 357px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-2 .u-sheet-1 {
     min-height: 672px;
-  }
-
-  .u-section-2 .u-text-1 {
-    width: 770px;
-    margin-top: 60px;
-    margin-left: 111px;
-    margin-right: 59px;
   }
 }
 
@@ -146,8 +140,6 @@
   .u-section-2 .u-text-1 {
     font-size: 4.25rem;
     width: 720px;
-    margin-left: 0;
-    margin-right: 0;
   }
 }
 
