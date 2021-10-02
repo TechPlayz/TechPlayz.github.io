@@ -11,18 +11,17 @@
     <body>
         <div class = "heads">
             <ul>
-                <button id = "homeButton"><li><a href = "index.html">Home</a></li></button>
-                <button id = "downloadsButton"><li><a href = "downloads.html">Downloads</a></li></button>
-                <button id = "YouTube"><li><a href = "https://www.youtube.com/channel/UCseSzBOgrBQY06RNX-Qr2Vg">YouTube</a></li></button>
-                <button id = "GitHub"><li><a href = "https://github.com/TechPlayz">GitHub</a></li></button>
+                <button id = "homeButton" onclick="openHome()"><li>Home</li></button>
+                <button id = "downloadsButton" onclick="openDownloads()"><li>Downloads</li></button>
+                <button id = "YouTube" onclick = "openYT()"><li>YouTube</li></button>
+                <button id = "GitHub" onclick = "openGitHub()"><li>GitHub</li></button>
             </ul>
         </div>
         <h1>Software Cateories</h1>
         <div class = "software_categories">
             <h3>
             <ul>
-                <li><a href = "./SelfMadeSoftwares/">Self Made</a></li>
-                <li><a href = "./ThirdPartySoftwares/">Third Party</a></li>
+                <li><button onclick="openCalcWebsite()">Command Line Calculator</button></li>
             </ul>
             </h3>
         </div>
