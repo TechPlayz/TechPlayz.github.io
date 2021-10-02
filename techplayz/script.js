@@ -22,4 +22,4 @@ function openGitHub() {
 //downloads.html button events
 function openCalcWebsite() {
     const tab = window.open("https://github.com/TechPlayz/calculator-command-line/releases", "_blank");
-}
+};
