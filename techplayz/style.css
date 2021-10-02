@@ -20,6 +20,10 @@ html {
 .heads li {
     display: inline-block;
 }
+
+.heads button {
+    background-color: blue;
+}
 .software_categories {
     text-align: center;
     display: inline-block;
