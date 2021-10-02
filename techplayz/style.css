@@ -36,6 +36,10 @@ html {
     display: inline-block;
 }
 
+.softwares ul li {
+    display: inline-block;
+}
+
 .softwares button {
     background-color: chartreuse;
 }
