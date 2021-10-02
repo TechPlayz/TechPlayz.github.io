@@ -31,11 +31,11 @@ html {
 }
 
 /*downloads.html */
-.software_categories {
+.softwares {
     text-align: center;
     display: inline-block;
 }
 
-.software_categories button {
+.softwares button {
     background-color: chartreuse;
 }
