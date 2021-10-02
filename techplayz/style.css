@@ -1,3 +1,4 @@
+/*Universal CSS*/
 html {
     background-color: #6559aa;
     text-align: center;
@@ -22,8 +23,14 @@ html {
 }
 
 .heads button {
-    background-color: blue;
+    background-color: cornflowerblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+
+/*downloads.html */
 .software_categories {
     text-align: center;
     display: inline-block;
