@@ -5,18 +5,17 @@ html {
     font-family: 'Ubuntu', sans-serif;
 }
 .heads {
-    color:chartreuse;
     text-align: center;
 }
-.heads ul{
+.heads ul {
     display: inline-block;
     margin: 10px 0;
     padding: 0;
 }
+
 .heads li {
     display: inline-block;
 }
-
 .heads button {
     background-color: cornflowerblue;
     padding-left: 10px;
