@@ -24,6 +24,20 @@ html {
     padding-bottom: 10px;
 }
 
+/*index.html heading animation*/
+@keyframes colourBlink {
+    0% {color: red;}
+    25% {color: blue;}
+    50% {color: green;}
+    100% {color: yellow;}
+}
+
+#headingLine {
+    animation-name: colourBlink;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
 /*downloads.html */
 .softwares {
     text-align: center;

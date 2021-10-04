@@ -1,5 +1,6 @@
-function executeEaster() {
-    document.getElementById("headingLine").innerHTML = "<h2>Thank You for clicking!</h2>";
+//index.html easter egg
+function executeEaster() {   
+    document.getElementById("headingLine").innerHTML = "<h2>Thank You For Clicking!</h2>";
 };
 
 //universal pages
