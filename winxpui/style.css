@@ -1,0 +1,17 @@
+* {
+	background-image: url('desktop_notaskbar.png') ;
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-size: 100% 100%;
+}
+
+.taskbar {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+}
+
+
+#smenu {
+	visibility: hidden;
+}
