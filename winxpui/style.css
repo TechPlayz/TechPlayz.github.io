@@ -13,5 +13,9 @@
 
 
 #smenu {
+	position: fixed;
 	visibility: hidden;
+	left: 0px;
+	bottom: 30px;
+
 }
